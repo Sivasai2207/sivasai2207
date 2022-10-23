@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Siva Saikumar Reddy K</h1>
 
 <!--cover picture-->
-<img src = "https://unsplash.com/photos/nwB1ngFEpeQ" width=100%>
+<img src = "https://images.unsplash.com/photo-1666504185848-0e58c6488ac3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2080&q=80" width=100%>
 
 <h2>About Me : </h2>
 <h3 align="center">I'm a developer and Computer Science & Engineering Undergrad
