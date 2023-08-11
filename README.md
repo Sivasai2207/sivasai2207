@@ -5,11 +5,10 @@
 
 
 <h2>About Me : </h2>
-<h3 align="center">I'm a developer and Computer Science & Engineering Undergrad
-Sathyabama Institute of Science & Technology
-Bachelor of Engineering in Computer Science
-June 2019 - May 2023
-Pursuing Bachelor of Computer Science from Sathyabama University, Got some cool People with the same mindset To collaborate! And it was a great exposure and it was a great place to explore many stuffs related to Programming.</h3>
+<h3 align="center">I'm a developer and Computer Science & Engineering Masters
+University Of Texas At Arlington
+Master of Science in Computer Science
+Pursuing Masters of Computer Science from University Of Texas At Arlington, Got some cool People with the same mindset To collaborate! And it was a great exposure and it was a great place to explore many stuffs related to Programming.</h3>
 
 </br>
 
